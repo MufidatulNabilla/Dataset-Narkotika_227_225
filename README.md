@@ -15,7 +15,7 @@ Data dikumpulkan dari catatan persidangan Pengadilan Negeri Denpasar berdasarkan
   <img src="https://github.com/user-attachments/assets/3f1f7f78-3f18-4c51-a9dc-db8411570abf" width="190"/>
 </p>
 
-## Susunan Direktori
+## Susunan Direktori 📂
 
 > Dataset
 >> Narkotika.zip
